@@ -1,0 +1,27 @@
+c:\users\朋子\documents\visual studio 2015\Projects\Pelmanism\Pelmanism\bin\Debug\Pelmanism.exe.config
+c:\users\朋子\documents\visual studio 2015\Projects\Pelmanism\Pelmanism\bin\Debug\Pelmanism.exe
+c:\users\朋子\documents\visual studio 2015\Projects\Pelmanism\Pelmanism\bin\Debug\Pelmanism.pdb
+c:\users\朋子\documents\visual studio 2015\Projects\Pelmanism\Pelmanism\obj\Debug\Pelmanism.csprojResolveAssemblyReference.cache
+c:\users\朋子\documents\visual studio 2015\Projects\Pelmanism\Pelmanism\obj\Debug\Pelmanism.Form1.resources
+c:\users\朋子\documents\visual studio 2015\Projects\Pelmanism\Pelmanism\obj\Debug\Pelmanism.Properties.Resources.resources
+c:\users\朋子\documents\visual studio 2015\Projects\Pelmanism\Pelmanism\obj\Debug\Pelmanism.csproj.GenerateResource.Cache
+c:\users\朋子\documents\visual studio 2015\Projects\Pelmanism\Pelmanism\obj\Debug\Pelmanism.exe
+c:\users\朋子\documents\visual studio 2015\Projects\Pelmanism\Pelmanism\obj\Debug\Pelmanism.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\9章\Projects\Pelmanism\Pelmanism\bin\Debug\Pelmanism.exe.config
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\9章\Projects\Pelmanism\Pelmanism\obj\Debug\Pelmanism.exe
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\9章\Projects\Pelmanism\Pelmanism\obj\Debug\Pelmanism.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\9章\Projects\Pelmanism\Pelmanism\bin\Debug\Pelmanism.exe
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\9章\Projects\Pelmanism\Pelmanism\bin\Debug\Pelmanism.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\9章\Projects\Pelmanism\Pelmanism\obj\Debug\Pelmanism.csprojResolveAssemblyReference.cache
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\9章\Projects\Pelmanism\Pelmanism\obj\Debug\Pelmanism.Form1.resources
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\9章\Projects\Pelmanism\Pelmanism\obj\Debug\Pelmanism.Properties.Resources.resources
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\9章\Projects\Pelmanism\Pelmanism\obj\Debug\Pelmanism.csproj.GenerateResource.Cache
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\9章\例題のアプリケーション\Pelmanism\Pelmanism\bin\Debug\Pelmanism.exe.config
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\9章\例題のアプリケーション\Pelmanism\Pelmanism\obj\Debug\Pelmanism.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\9章\例題のアプリケーション\Pelmanism\Pelmanism\obj\Debug\Pelmanism.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\9章\例題のアプリケーション\Pelmanism\Pelmanism\bin\Debug\Pelmanism.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\9章\例題のアプリケーション\Pelmanism\Pelmanism\bin\Debug\Pelmanism.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\9章\例題のアプリケーション\Pelmanism\Pelmanism\obj\Debug\Pelmanism.csprojResolveAssemblyReference.cache
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\9章\例題のアプリケーション\Pelmanism\Pelmanism\obj\Debug\Pelmanism.Form1.resources
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\9章\例題のアプリケーション\Pelmanism\Pelmanism\obj\Debug\Pelmanism.Properties.Resources.resources
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\9章\例題のアプリケーション\Pelmanism\Pelmanism\obj\Debug\Pelmanism.csproj.GenerateResource.Cache

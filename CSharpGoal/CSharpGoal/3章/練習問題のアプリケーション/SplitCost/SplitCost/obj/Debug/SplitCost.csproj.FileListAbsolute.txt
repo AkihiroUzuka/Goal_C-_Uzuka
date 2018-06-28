@@ -1,0 +1,30 @@
+c:\users\朋子\documents\visual studio 2015\Projects\SplitCost\SplitCost\bin\Debug\SplitCost.exe.config
+c:\users\朋子\documents\visual studio 2015\Projects\SplitCost\SplitCost\bin\Debug\SplitCost.exe
+c:\users\朋子\documents\visual studio 2015\Projects\SplitCost\SplitCost\bin\Debug\SplitCost.pdb
+c:\users\朋子\documents\visual studio 2015\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.csprojResolveAssemblyReference.cache
+c:\users\朋子\documents\visual studio 2015\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.Form1.resources
+c:\users\朋子\documents\visual studio 2015\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.Properties.Resources.resources
+c:\users\朋子\documents\visual studio 2015\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.csproj.GenerateResource.Cache
+c:\users\朋子\documents\visual studio 2015\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.exe
+c:\users\朋子\documents\visual studio 2015\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\3章\Projects\SplitCost\SplitCost\bin\Debug\SplitCost.exe.config
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\3章\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.exe
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\3章\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\3章\Projects\SplitCost\SplitCost\bin\Debug\SplitCost.exe
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\3章\Projects\SplitCost\SplitCost\bin\Debug\SplitCost.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\3章\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.csprojResolveAssemblyReference.cache
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\3章\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.Form1.resources
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\3章\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.Properties.Resources.resources
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\3章\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.csproj.GenerateResource.Cache
+C:\Users\朋子\Dropbox\菅原朋子\2015.12.14\3章\Projects\SplitCost\SplitCost\bin\Debug\SplitCost.exe.config
+C:\Users\朋子\Dropbox\菅原朋子\2015.12.14\3章\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.exe
+C:\Users\朋子\Dropbox\菅原朋子\2015.12.14\3章\Projects\SplitCost\SplitCost\obj\Debug\SplitCost.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\3章\練習問題のアプリケーション\SplitCost\SplitCost\bin\Debug\SplitCost.exe.config
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\3章\練習問題のアプリケーション\SplitCost\SplitCost\obj\Debug\SplitCost.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\3章\練習問題のアプリケーション\SplitCost\SplitCost\obj\Debug\SplitCost.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\3章\練習問題のアプリケーション\SplitCost\SplitCost\bin\Debug\SplitCost.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\3章\練習問題のアプリケーション\SplitCost\SplitCost\bin\Debug\SplitCost.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\3章\練習問題のアプリケーション\SplitCost\SplitCost\obj\Debug\SplitCost.csprojResolveAssemblyReference.cache
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\3章\練習問題のアプリケーション\SplitCost\SplitCost\obj\Debug\SplitCost.Form1.resources
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\3章\練習問題のアプリケーション\SplitCost\SplitCost\obj\Debug\SplitCost.Properties.Resources.resources
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\3章\練習問題のアプリケーション\SplitCost\SplitCost\obj\Debug\SplitCost.csproj.GenerateResource.Cache

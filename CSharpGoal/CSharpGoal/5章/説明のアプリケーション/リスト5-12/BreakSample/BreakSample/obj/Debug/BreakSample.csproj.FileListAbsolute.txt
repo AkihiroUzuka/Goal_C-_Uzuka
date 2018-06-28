@@ -1,0 +1,12 @@
+c:\users\朋子\documents\visual studio 2015\Projects\BreakSample\BreakSample\bin\Debug\BreakSample.exe.config
+c:\users\朋子\documents\visual studio 2015\Projects\BreakSample\BreakSample\bin\Debug\BreakSample.exe
+c:\users\朋子\documents\visual studio 2015\Projects\BreakSample\BreakSample\bin\Debug\BreakSample.pdb
+c:\users\朋子\documents\visual studio 2015\Projects\BreakSample\BreakSample\obj\Debug\BreakSample.csprojResolveAssemblyReference.cache
+c:\users\朋子\documents\visual studio 2015\Projects\BreakSample\BreakSample\obj\Debug\BreakSample.exe
+c:\users\朋子\documents\visual studio 2015\Projects\BreakSample\BreakSample\obj\Debug\BreakSample.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\5章\説明のアプリケーション\リスト5-12\BreakSample\BreakSample\bin\Debug\BreakSample.exe.config
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\5章\説明のアプリケーション\リスト5-12\BreakSample\BreakSample\obj\Debug\BreakSample.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\5章\説明のアプリケーション\リスト5-12\BreakSample\BreakSample\obj\Debug\BreakSample.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\5章\説明のアプリケーション\リスト5-12\BreakSample\BreakSample\bin\Debug\BreakSample.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\5章\説明のアプリケーション\リスト5-12\BreakSample\BreakSample\bin\Debug\BreakSample.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\5章\説明のアプリケーション\リスト5-12\BreakSample\BreakSample\obj\Debug\BreakSample.csprojResolveAssemblyReference.cache

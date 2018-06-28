@@ -1,0 +1,17 @@
+c:\users\朋子\documents\visual studio 2015\Projects\Guess\Guess\bin\Debug\Guess.exe.config
+c:\users\朋子\documents\visual studio 2015\Projects\Guess\Guess\bin\Debug\Guess.exe
+c:\users\朋子\documents\visual studio 2015\Projects\Guess\Guess\bin\Debug\Guess.pdb
+c:\users\朋子\documents\visual studio 2015\Projects\Guess\Guess\obj\Debug\Guess.exe
+c:\users\朋子\documents\visual studio 2015\Projects\Guess\Guess\obj\Debug\Guess.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\5章\Projects\Guess\Guess\bin\Debug\Guess.exe.config
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\5章\Projects\Guess\Guess\obj\Debug\Guess.exe
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\5章\Projects\Guess\Guess\obj\Debug\Guess.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\5章\Projects\Guess\Guess\bin\Debug\Guess.exe
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\5章\Projects\Guess\Guess\bin\Debug\Guess.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\5章\Projects\Guess\Guess\obj\Debug\Guess.csprojResolveAssemblyReference.cache
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\5章\練習問題のアプリケーション\Guess\Guess\bin\Debug\Guess.exe.config
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\5章\練習問題のアプリケーション\Guess\Guess\obj\Debug\Guess.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\5章\練習問題のアプリケーション\Guess\Guess\obj\Debug\Guess.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\5章\練習問題のアプリケーション\Guess\Guess\bin\Debug\Guess.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\5章\練習問題のアプリケーション\Guess\Guess\bin\Debug\Guess.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\5章\練習問題のアプリケーション\Guess\Guess\obj\Debug\Guess.csprojResolveAssemblyReference.cache

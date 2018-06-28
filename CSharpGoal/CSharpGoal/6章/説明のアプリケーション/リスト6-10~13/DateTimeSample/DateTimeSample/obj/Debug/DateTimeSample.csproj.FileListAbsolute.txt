@@ -1,0 +1,18 @@
+c:\users\朋子\documents\visual studio 2015\Projects\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.exe.config
+c:\users\朋子\documents\visual studio 2015\Projects\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.exe
+c:\users\朋子\documents\visual studio 2015\Projects\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.pdb
+c:\users\朋子\documents\visual studio 2015\Projects\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.csprojResolveAssemblyReference.cache
+c:\users\朋子\documents\visual studio 2015\Projects\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.exe
+c:\users\朋子\documents\visual studio 2015\Projects\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.exe.config
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.exe
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.exe
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.csprojResolveAssemblyReference.cache
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\説明のアプリケーション\リスト6-10~13\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.exe.config
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\説明のアプリケーション\リスト6-10~13\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\説明のアプリケーション\リスト6-10~13\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\説明のアプリケーション\リスト6-10~13\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\説明のアプリケーション\リスト6-10~13\DateTimeSample\DateTimeSample\bin\Debug\DateTimeSample.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\説明のアプリケーション\リスト6-10~13\DateTimeSample\DateTimeSample\obj\Debug\DateTimeSample.csprojResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+c:\users\朋子\documents\visual studio 2015\Projects\AlarmTimer\AlarmTimer\bin\Debug\AlarmTimer.exe.config
+c:\users\朋子\documents\visual studio 2015\Projects\AlarmTimer\AlarmTimer\bin\Debug\AlarmTimer.exe
+c:\users\朋子\documents\visual studio 2015\Projects\AlarmTimer\AlarmTimer\bin\Debug\AlarmTimer.pdb
+c:\users\朋子\documents\visual studio 2015\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.csprojResolveAssemblyReference.cache
+c:\users\朋子\documents\visual studio 2015\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.Form1.resources
+c:\users\朋子\documents\visual studio 2015\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.Properties.Resources.resources
+c:\users\朋子\documents\visual studio 2015\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.csproj.GenerateResource.Cache
+c:\users\朋子\documents\visual studio 2015\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.exe
+c:\users\朋子\documents\visual studio 2015\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.pdb
+c:\users\朋子\documents\visual studio 2015\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.Form2.resources
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\AlarmTimer\AlarmTimer\bin\Debug\AlarmTimer.exe.config
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.exe
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\AlarmTimer\AlarmTimer\bin\Debug\AlarmTimer.exe
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\AlarmTimer\AlarmTimer\bin\Debug\AlarmTimer.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.csprojResolveAssemblyReference.cache
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.Form1.resources
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.Form2.resources
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.Properties.Resources.resources
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\6章\Projects\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.csproj.GenerateResource.Cache
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\例題のアプリケーション\AlarmTimer\AlarmTimer\bin\Debug\AlarmTimer.exe.config
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\例題のアプリケーション\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\例題のアプリケーション\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\例題のアプリケーション\AlarmTimer\AlarmTimer\bin\Debug\AlarmTimer.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\例題のアプリケーション\AlarmTimer\AlarmTimer\bin\Debug\AlarmTimer.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\例題のアプリケーション\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.csprojResolveAssemblyReference.cache
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\例題のアプリケーション\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.Form1.resources
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\例題のアプリケーション\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.Form2.resources
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\例題のアプリケーション\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.Properties.Resources.resources
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\6章\例題のアプリケーション\AlarmTimer\AlarmTimer\obj\Debug\AlarmTimer.csproj.GenerateResource.Cache

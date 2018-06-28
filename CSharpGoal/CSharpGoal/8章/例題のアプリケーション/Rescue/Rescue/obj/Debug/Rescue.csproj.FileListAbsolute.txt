@@ -1,0 +1,27 @@
+c:\users\朋子\documents\visual studio 2015\Projects\Rescue\Rescue\bin\Debug\Rescue.exe.config
+c:\users\朋子\documents\visual studio 2015\Projects\Rescue\Rescue\bin\Debug\Rescue.exe
+c:\users\朋子\documents\visual studio 2015\Projects\Rescue\Rescue\bin\Debug\Rescue.pdb
+c:\users\朋子\documents\visual studio 2015\Projects\Rescue\Rescue\obj\Debug\Rescue.csprojResolveAssemblyReference.cache
+c:\users\朋子\documents\visual studio 2015\Projects\Rescue\Rescue\obj\Debug\Rescue.Form1.resources
+c:\users\朋子\documents\visual studio 2015\Projects\Rescue\Rescue\obj\Debug\Rescue.Properties.Resources.resources
+c:\users\朋子\documents\visual studio 2015\Projects\Rescue\Rescue\obj\Debug\Rescue.csproj.GenerateResource.Cache
+c:\users\朋子\documents\visual studio 2015\Projects\Rescue\Rescue\obj\Debug\Rescue.exe
+c:\users\朋子\documents\visual studio 2015\Projects\Rescue\Rescue\obj\Debug\Rescue.pdb
+C:\Users\朋子\Desktop\Rescue\Rescue\bin\Debug\Rescue.exe.config
+C:\Users\朋子\Desktop\Rescue\Rescue\obj\Debug\Rescue.exe
+C:\Users\朋子\Desktop\Rescue\Rescue\obj\Debug\Rescue.pdb
+C:\Users\朋子\Desktop\Rescue\Rescue\bin\Debug\Rescue.exe
+C:\Users\朋子\Desktop\Rescue\Rescue\bin\Debug\Rescue.pdb
+C:\Users\朋子\Desktop\Rescue\Rescue\obj\Debug\Rescue.csprojResolveAssemblyReference.cache
+C:\Users\朋子\Desktop\Rescue\Rescue\obj\Debug\Rescue.Form1.resources
+C:\Users\朋子\Desktop\Rescue\Rescue\obj\Debug\Rescue.Properties.Resources.resources
+C:\Users\朋子\Desktop\Rescue\Rescue\obj\Debug\Rescue.csproj.GenerateResource.Cache
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\8章\例題のアプリケーション\Rescue\Rescue\bin\Debug\Rescue.exe.config
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\8章\例題のアプリケーション\Rescue\Rescue\obj\Debug\Rescue.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\8章\例題のアプリケーション\Rescue\Rescue\obj\Debug\Rescue.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\8章\例題のアプリケーション\Rescue\Rescue\bin\Debug\Rescue.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\8章\例題のアプリケーション\Rescue\Rescue\bin\Debug\Rescue.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\8章\例題のアプリケーション\Rescue\Rescue\obj\Debug\Rescue.csprojResolveAssemblyReference.cache
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\8章\例題のアプリケーション\Rescue\Rescue\obj\Debug\Rescue.Form1.resources
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\8章\例題のアプリケーション\Rescue\Rescue\obj\Debug\Rescue.Properties.Resources.resources
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\8章\例題のアプリケーション\Rescue\Rescue\obj\Debug\Rescue.csproj.GenerateResource.Cache

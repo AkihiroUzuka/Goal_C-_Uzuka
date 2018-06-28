@@ -1,0 +1,27 @@
+c:\users\朋子\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+c:\users\朋子\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe
+c:\users\朋子\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.pdb
+c:\users\朋子\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\朋子\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.Form1.resources
+c:\users\朋子\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.Properties.Resources.resources
+c:\users\朋子\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csproj.GenerateResource.Cache
+c:\users\朋子\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.exe
+c:\users\朋子\documents\visual studio 2015\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\2章\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\2章\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\2章\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\2章\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\2章\Projects\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\2章\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\2章\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.Form1.resources
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\2章\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.Properties.Resources.resources
+C:\Users\朋子\Dropbox\自宅のPC\C#入門書\VS2015\2章\Projects\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csproj.GenerateResource.Cache
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\2章\例題のアプリケーション\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\2章\例題のアプリケーション\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\2章\例題のアプリケーション\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\2章\例題のアプリケーション\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\2章\例題のアプリケーション\HelloCSharp\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\2章\例題のアプリケーション\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\2章\例題のアプリケーション\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.Form1.resources
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\2章\例題のアプリケーション\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.Properties.Resources.resources
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\2章\例題のアプリケーション\HelloCSharp\HelloCSharp\obj\Debug\HelloCSharp.csproj.GenerateResource.Cache

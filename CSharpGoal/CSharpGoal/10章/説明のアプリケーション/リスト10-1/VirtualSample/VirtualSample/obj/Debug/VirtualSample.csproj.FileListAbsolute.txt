@@ -1,0 +1,12 @@
+c:\users\朋子\documents\visual studio 2015\Projects\VirtualSample\VirtualSample\bin\Debug\VirtualSample.exe.config
+c:\users\朋子\documents\visual studio 2015\Projects\VirtualSample\VirtualSample\bin\Debug\VirtualSample.exe
+c:\users\朋子\documents\visual studio 2015\Projects\VirtualSample\VirtualSample\bin\Debug\VirtualSample.pdb
+c:\users\朋子\documents\visual studio 2015\Projects\VirtualSample\VirtualSample\obj\Debug\VirtualSample.exe
+c:\users\朋子\documents\visual studio 2015\Projects\VirtualSample\VirtualSample\obj\Debug\VirtualSample.pdb
+C:\Users\朋子\documents\visual studio 2015\Projects\VirtualSample\VirtualSample\obj\Debug\VirtualSample.csprojResolveAssemblyReference.cache
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\10章\説明のアプリケーション\リスト10-1\VirtualSample\VirtualSample\bin\Debug\VirtualSample.exe.config
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\10章\説明のアプリケーション\リスト10-1\VirtualSample\VirtualSample\obj\Debug\VirtualSample.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\10章\説明のアプリケーション\リスト10-1\VirtualSample\VirtualSample\obj\Debug\VirtualSample.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\10章\説明のアプリケーション\リスト10-1\VirtualSample\VirtualSample\bin\Debug\VirtualSample.exe
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\10章\説明のアプリケーション\リスト10-1\VirtualSample\VirtualSample\bin\Debug\VirtualSample.pdb
+C:\Users\朋子\Documents\C#本プロジェクト\CSharpGoal\10章\説明のアプリケーション\リスト10-1\VirtualSample\VirtualSample\obj\Debug\VirtualSample.csprojResolveAssemblyReference.cache
