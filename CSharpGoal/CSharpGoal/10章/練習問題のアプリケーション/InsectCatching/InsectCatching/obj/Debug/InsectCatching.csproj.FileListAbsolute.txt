@@ -1,9 +1,0 @@
-C:\Users\朋子\Dropbox\自宅のPC\C#入門書\最終版\CSharpGoal\10章\練習問題のアプリケーション\InsectCatching\InsectCatching\bin\Debug\InsectCatching.exe.config
-C:\Users\朋子\Dropbox\自宅のPC\C#入門書\最終版\CSharpGoal\10章\練習問題のアプリケーション\InsectCatching\InsectCatching\obj\Debug\InsectCatching.csprojResolveAssemblyReference.cache
-C:\Users\朋子\Dropbox\自宅のPC\C#入門書\最終版\CSharpGoal\10章\練習問題のアプリケーション\InsectCatching\InsectCatching\obj\Debug\InsectCatching.Form1.resources
-C:\Users\朋子\Dropbox\自宅のPC\C#入門書\最終版\CSharpGoal\10章\練習問題のアプリケーション\InsectCatching\InsectCatching\obj\Debug\InsectCatching.Properties.Resources.resources
-C:\Users\朋子\Dropbox\自宅のPC\C#入門書\最終版\CSharpGoal\10章\練習問題のアプリケーション\InsectCatching\InsectCatching\obj\Debug\InsectCatching.csproj.GenerateResource.Cache
-C:\Users\朋子\Dropbox\自宅のPC\C#入門書\最終版\CSharpGoal\10章\練習問題のアプリケーション\InsectCatching\InsectCatching\bin\Debug\InsectCatching.exe
-C:\Users\朋子\Dropbox\自宅のPC\C#入門書\最終版\CSharpGoal\10章\練習問題のアプリケーション\InsectCatching\InsectCatching\bin\Debug\InsectCatching.pdb
-C:\Users\朋子\Dropbox\自宅のPC\C#入門書\最終版\CSharpGoal\10章\練習問題のアプリケーション\InsectCatching\InsectCatching\obj\Debug\InsectCatching.exe
-C:\Users\朋子\Dropbox\自宅のPC\C#入門書\最終版\CSharpGoal\10章\練習問題のアプリケーション\InsectCatching\InsectCatching\obj\Debug\InsectCatching.pdb
